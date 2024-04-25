@@ -2,7 +2,7 @@
 Welcome to my page :) I'm Jik a software-engineer from the Netherlands 
 <!-- Socials -->
 <div id="badges">
-  <img src="https://img.shields.io/badge/coding_on...-Spring!-green?labelColor=blue&logo=visualstudiocode">
+  <img src="https://img.shields.io/badge/coding_on...-Rust!-red?labelColor=blue&logo=visualstudiocode">
   <a href="https://www.linkedin.com/in/jik-huijberts/">
     <img src="https://img.shields.io/badge/-LinkedIn-darkcyan?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
